@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beetbox/beets/commit/18967aad9d36ca29fe2a370c3eca9beae3b46749",
       "git:hexsha": "18967aad9d36ca29fe2a370c3eca9beae3b46749",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beetbox/beets/commit/08552e2046d1baa94673310e8be6285df373cca2",
