@@ -1,0 +1,11 @@
+{
+  "org": "beetbox",
+  "repo": "beets",
+  "versions": [
+    {
+      "commit": "18967aad9d36ca29fe2a370c3eca9beae3b46749",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:35:53.787347+00:00"
+    }
+  ]
+}
